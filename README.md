@@ -1,4 +1,4 @@
-# ⚡Pas encore fini
+# ⚡BlinkTime
 
 
 # 🕶️ BlinkTime
@@ -16,7 +16,8 @@ Elle vous rappelle de faire des pauses régulières en suivant la règle bien co
 - 🎨 Entièrement personnalisable (durées, messages).
 
 ---
-
+## 🛑 Statut
+En cours
 ## 📥 Installation
 
 1. Assurez-vous d'avoir **Python 3.x** installé sur votre ordinateur.
