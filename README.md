@@ -1,5 +1,7 @@
-# ⚡BlinkTime
-
+# 👁️‍🗨️ BlinkTime
+<p align="center">
+<img alt="Nom de l'image" src="Logo.png">
+</p>
 
 # 🕶️ BlinkTime
 
